@@ -1,4 +1,4 @@
 # Completed-Python-Projects
 
-Data Analysis with Python - Portfolio Project Repository
+Data Analysis with Python - Portfolio Project Repository. /n
 This Repository will hold all of the code and queries from the Portfolio Projects I create.
